@@ -10,6 +10,11 @@ A project tracking our active presence across the African continent.
 | Kenya     | Active        | East Africa |
 | Rwanda    | Active        | East Africa |
 | Uganda    | Exploring     | East Africa |
+| Congo     | Exploring     | Central Africa |
+| South Sudan | Exploring   | East Africa |
+| Guinea    | Exploring     | West Africa |
+| Gabon     | Exploring     | Central Africa |
+| Comoros   | Exploring     | Indian Ocean |
 
 ## About
 
