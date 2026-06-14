@@ -9,6 +9,7 @@ A project tracking our active presence across the African continent.
 | Tanzania  | Active        | East Africa |
 | Kenya     | Active        | East Africa |
 | Rwanda    | Active        | East Africa |
+| Uganda    | Exploring     | East Africa |
 
 ## About
 
